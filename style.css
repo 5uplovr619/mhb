@@ -1,0 +1,24 @@
+html {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 125px;
+  margin-right: 125px;
+  background-color: rgb(241, 224, 200);
+}
+.inputs {
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+#btn {
+  width: 200px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  border-radius: 25px;
+}
+
+#endgrade {
+  font-family: serif;
+}
